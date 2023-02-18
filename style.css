@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+    font-family: cursive;
+    color: crimson;
+}
+table{
+    width:50%;
+
+}
+td{
+    
+    padding:70px 20px;
+}
+h1{
+    text-align: center;
+}
